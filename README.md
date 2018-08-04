@@ -1,8 +1,6 @@
 # Azure Security Notes
 Notes for Azure Security Presentation
 
-## AzureSecurityNotes -
-
 ### Microsoft Security General
 https://www.microsoft.com/en-us/trustcenter/default.aspx
 
