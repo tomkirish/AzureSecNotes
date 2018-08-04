@@ -1,12 +1,12 @@
-# AzureSecNotes
+# Azure Security Notes
 Notes for Azure Security Presentation
 
-AzureSecurityNotes -
+##AzureSecurityNotes -
 
-Microsoft Security General
+###Microsoft Security General
 https://www.microsoft.com/en-us/trustcenter/default.aspx
 
-Azure Security General
+###Azure Security General
 https://www.microsoft.com/en-us/azureessentials - Security Option
 https://docs.microsoft.com/en-us/azure/security/azure-security
 https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns
@@ -14,7 +14,7 @@ https://www.microsoft.com/handsonlabs/selfpacedlabs#keywords=security&page=1&sor
 https://www.edx.org/course/microsoft-azure-security-services-0
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/security/security-best-practices-and-patterns.md
 
-Azure Security Center
+###Azure Security Center
 https://www.microsoft.com/en-us/azureessentials/Pivot/AzureEssentials/SecurityCenter/Learn
 https://docs.microsoft.com/en-us/azure/security-center/
 https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-security-center-16614?l=BUOzJ6znC_9504300474
