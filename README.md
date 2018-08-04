@@ -95,6 +95,10 @@ Example -
 
 * https://github.com/Azure/azure-quickstart-templates
 
+## Azure Security Blog
+
+* https://azure.microsoft.com/en-us/blog/topics/security/
+
 ## Azure Marketplace - Security Solutions
 
 * https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/security-identity
