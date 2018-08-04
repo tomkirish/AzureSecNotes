@@ -39,7 +39,9 @@ https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-w
 https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
 
-### Azure Advisor
+### Azure Advisor -
+Example -
+![Image](AdvisorDemo.png)
 https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
 
 ### Identity Security
