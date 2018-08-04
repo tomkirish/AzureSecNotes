@@ -21,7 +21,6 @@ https://www.microsoft.com/en-us/azureessentials/Pivot/AzureEssentials/SecurityCe
 https://docs.microsoft.com/en-us/azure/security-center/
 https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-security-center-16614?l=BUOzJ6znC_9504300474
 https://mva.microsoft.com/en-US/training-courses/hybrid-cloud-workload-protection-with-azure-security-center-18173?l=Ld0LK42jE_006218965
-demo security center in Statera sub - 9e3...
 https://channel9.msdn.com/Blogs/Azure-Security-Videos
 
 ## Encryption
