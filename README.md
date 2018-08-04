@@ -2,9 +2,9 @@
 
 Notes for Azure Security Presentation
 
-## Microsoft Security General
+## Azure Security
 
-* https://www.microsoft.com/en-us/trustcenter/default.aspx
+# Glossary
 
 ## Azure Security General
 
@@ -17,6 +17,8 @@ Notes for Azure Security Presentation
 
 ## Azure Security Center
 
+* https://docs.microsoft.com/en-us/azure/security-center/security-center-planning-and-operations-guide
+* https://docs.microsoft.com/en-us/azure/security-center/security-center-faq
 * https://www.microsoft.com/en-us/azureessentials/Pivot/AzureEssentials/SecurityCenter/Learn
 * https://docs.microsoft.com/en-us/azure/security-center/
 * https://mva.microsoft.com/en-US/training-courses/introduction-to-azure-security-center-16614?l=BUOzJ6znC_9504300474
@@ -43,6 +45,7 @@ Notes for Azure Security Presentation
 * https://docs.microsoft.com/en-us/azure/security/azure-security-network-security-best-practices
 * https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-overview
 * https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
+* https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview
 * https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
 
 ## Azure Advisor
@@ -105,3 +108,7 @@ Example -
 
 * https://www.logrhythm.com/
 * https://www.splunk.com/
+
+## Microsoft Security General
+
+* https://www.microsoft.com/en-us/trustcenter/default.aspx
