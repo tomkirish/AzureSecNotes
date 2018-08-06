@@ -4,6 +4,8 @@ Notes for Azure Security Presentation
 
 ## Azure Security
 
+Specifically content for developers including websites, web services, web apps, and database/data warehouse.
+
 # Glossary
 
 ## Azure Security General
