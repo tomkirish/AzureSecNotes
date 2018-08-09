@@ -14,22 +14,22 @@ Storage
 Azure WebApp (ASE) Security
 
 Developer Resources
-    RBAC
-    Key Vault
-    
+* RBAC
+* Key Vault
+
 App Services
 
 Database
-SQL
-  Servers
-  Elastic Pools
-  Managed Instances
+* SQL
+    * Servers
+    * Elastic Pools
+    * Managed Instances
 
-SQL Data Warehouse
+* SQL Data Warehouse
 
-CosmosDB
+* CosmosDB
 
-Azure for MySQL
+* Azure for MySQL
 
 # Glossary
 
