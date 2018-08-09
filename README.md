@@ -6,6 +6,31 @@ Notes for Azure Security Presentation
 
 Specifically content for developers including websites, web services, web apps, and database/data warehouse.
 
+Topics include:
+Network Security - NSG, Network Interfaces, WAF's 
+
+Storage
+
+Azure WebApp (ASE) Security
+
+Developer Resources
+    RBAC
+    Key Vault
+    
+App Services
+
+Database
+SQL
+  Servers
+  Elastic Pools
+  Managed Instances
+
+SQL Data Warehouse
+
+CosmosDB
+
+Azure for MySQL
+
 # Glossary
 
 ## Azure Security General
