@@ -7,6 +7,7 @@ Notes for Azure Security Presentation
 Specifically content for developers including websites, web services, web apps, and database/data warehouse.
 
 Topics include:
+
 Network Security - NSG, Network Interfaces, WAF's 
 
 Storage
