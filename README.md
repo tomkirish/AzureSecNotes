@@ -17,6 +17,7 @@ Azure WebApp (ASE) Security
 Developer Resources
 * RBAC
 * Key Vault
+* Virtual Network Service Endpoints
 
 App Services
 
@@ -101,7 +102,7 @@ Example -
 
 * https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis
 
-### Virtual Network Servivce EndPoints
+### Virtual Network Service EndPoints
 
 * https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
 * https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources
