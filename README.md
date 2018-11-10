@@ -12,7 +12,20 @@ Network Security - NSG, Network Interfaces, WAF's
 
 Storage
 
-Azure WebApp (ASE) Security
+Azure App Services Security
+Azure App Services Web Apps or Web Apps (PAAS) - 
+Network Security Group (NSG) - seperate into tiered NSG's, use subnets
+Route Tables (UDR) - 
+WAF -
+
+Azure App Service Environment (ASE) -
+
+
+Azure VM's (IAAS) - 
+
+
+Service Fabric -
+
 
 Developer Resources
 * RBAC
