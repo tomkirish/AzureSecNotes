@@ -13,32 +13,32 @@ Azure App Services Security
 Azure App Services Web Apps or Web Apps (PAAS) -
 
 1. Definition -
-* Most common choice for deploying web app/sites, REST API's, and mobile back ends. .NET, .NET Core, Jara, Ruby, Node.js, or Python can be used.
+    * Most common choice for deploying web app/sites, REST API's, and mobile back ends. .NET, .NET Core, Jara, Ruby, Node.js, or Python can be used.
 2. Features -
-* Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
+    * Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
 3. Built-In Azure Security -
-* Azure we apps run within their own secured sandbox environment
-* VM instances and runtime software receive regular updates
-* Secure secrets including connection strings between apps and Azure resources do not cross network boundaries
-* All connections using App Service connectivity are encrypted
-* Connections using remote connections tools ie PowerShell are encrypted
+    * Azure we apps run within their own secured sandbox environment
+    * VM instances and runtime software receive regular updates
+    * Secure secrets including connection strings between apps and Azure resources do not cross network boundaries
+    * All connections using App Service connectivity are encrypted
+    * Connections using remote connections tools ie PowerShell are encrypted
 4. Azure additional security
-* HTTPS and Certificates - by default app is created with https access
-* Static IP restrictions - it is possible to restrict access by IP address to app
-* Service to service authentication - Service identity (app managed identity) or On-behalf-of (delegated access)
-* Connectivity to remote resources - S2S VPN Tunnel
+    * HTTPS and Certificates - by default app is created with https access
+    * Static IP restrictions - it is possible to restrict access by IP address to app
+    * Service to service authentication - Service identity (app managed identity) or On-behalf-of (delegated access)
+    * Connectivity to remote resources - S2S VPN Tunnel
 
 Azure App Service Environment (ASE) -
 
 1. Definition -
-* Essentially Azure web apps that can be implemented in client's Azure environment.
+    * Essentially Azure web apps that can be implemented in client's Azure environment.
 2. Features -
-* The same apps can be deployed such as Windows and Linux web apps, Docker containers, Mobile apps, and Functions. Usually meant for very high scaling, isolation and secure network access, and/or high memory utilization.
+    * The same apps can be deployed such as Windows and Linux web apps, Docker containers, Mobile apps, and Functions. Usually meant for very high scaling, isolation and secure network access, and/or high memory utilization.
 3. Azure Security Options -
-* Dedicated environment
-* Azure Firewall with supported VNets
-* Service Endpoints - SQL, storage, keyvault
-* SSL
+    * Dedicated environment
+    * Azure Firewall with supported VNets
+    * Service Endpoints - SQL, storage, keyvault
+    * SSL
 
 Azure VM's (IAAS) -
 
