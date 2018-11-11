@@ -8,8 +8,6 @@ Specifically content for developers including websites, web services, web apps, 
 
 Topics include:
 
-Network Security - NSG, Network Interfaces, WAF's 
-
 Storage
 
 Azure App Services Security
