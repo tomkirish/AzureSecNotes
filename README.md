@@ -17,7 +17,7 @@ Azure App Services Web Apps or Web Apps (PAAS) -
 2. Features -
     * Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
 3. Built-In Azure Security -
-    * Azure we apps run within their own secured sandbox environment
+    * Azure web apps run within their own isolated sandbox environment
     * VM instances and runtime software receive regular updates
     * Secure secrets including connection strings between apps and Azure resources do not cross network boundaries
     * All connections using App Service connectivity are encrypted
@@ -54,13 +54,19 @@ Azure VM's (IAAS) -
 
 Service Fabric (MicroServices) -
 
-Developer Resources
+1. Definition -
+    * A distributed systems (Containers) platform to allow for easy packaging and deploying micrososervices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
+2. Security -
+    * Cluster security
+    * Node to node security
+    * Client to node security
 
-* RBAC
-* Key Vault
-* Virtual Network Service Endpoints
+General Azure Security Options
 
-App Services
+* Role Based Access Control - Create roles to allow granular access to Azure resources
+* Key Vault - Key management for secrets and identities.
+* Managed Identities - Automatically managed identity in Azure AD.
+* Virtual Network Service Endpoints - Allows direct access to resources versus traffic going across Azure public network (internet).
 
 Database
 
