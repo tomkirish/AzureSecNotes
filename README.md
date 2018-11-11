@@ -42,6 +42,16 @@ Azure App Service Environment (ASE) -
 
 Azure VM's (IAAS) -
 
+1. Definition -
+    * An Azure VM allows for just about any workload running on almost any operating system. Azure VM's works with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
+2. Security Options -
+    * Antimalware
+    * Hardware security module (HSM) - Key Vault
+    * Encrypt data using data encryption at rest (Gen 2 Storage or Bitlocker) and in transit (SSL)
+    * Network Security Groups
+    * Firewalls
+    * Compliance - FISMA, HIPAA, PCI DSS Level 1
+
 Service Fabric (MicroServices) -
 
 Developer Resources
