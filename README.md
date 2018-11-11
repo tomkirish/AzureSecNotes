@@ -30,6 +30,16 @@ Azure App Services Web Apps or Web Apps (PAAS) -
 
 Azure App Service Environment (ASE) -
 
+1. Definition -
+* Essentially Azure web apps that can be implemented in client's Azure environment.
+2. Features -
+* The same apps can be deployed such as Windows and Linux web apps, Docker containers, Mobile apps, and Functions. Usually meant for very high scaling, isolation and secure network access, and/or high memory utilization.
+3. Azure Security Options -
+* Dedicated environment
+* Azure Firewall with supported VNets
+* Service Endpoints - SQL, storage, keyvault
+* SSL
+
 Azure VM's (IAAS) -
 
 Service Fabric (MicroServices) -
