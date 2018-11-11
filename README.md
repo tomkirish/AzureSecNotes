@@ -8,13 +8,19 @@ Specifically content for developers including websites, web services, web apps, 
 
 Topics include:
 
-Storage
-
 Azure App Services Security
 Azure App Services Web Apps or Web Apps (PAAS) - 
-Network Security Group (NSG) - seperate into tiered NSG's, use subnets
-Route Tables (UDR) - 
-WAF -
+1. Definition -
+* Most common choice for deploying web app/sites, REST API's, and mobile back ends. .NET, .NET Core, Jara, Ruby, Node.js, or Python can be used.
+2. Features -
+* Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
+3. Security -
+* Azure we apps run within their own secured sandbox environment
+* VM instances and runtime software receive regular updates
+* Secure secrets including connection strings between apps and Azure resources do not cross network boundaries
+* All connections using App Service connectivity are encrypted
+* Connections using remote connections tools ie PowerShell are encrypted
+* Network Security Group (NSG) - seperate into tiered NSG's, use subnets
 
 Azure App Service Environment (ASE) -
 
@@ -22,7 +28,7 @@ Azure App Service Environment (ASE) -
 Azure VM's (IAAS) - 
 
 
-Service Fabric -
+Service Fabric (MicroServices) - 
 
 
 Developer Resources
