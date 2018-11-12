@@ -43,8 +43,8 @@ Topics include:
 ### 3. Azure VM's (IAAS) -
 
     * Definition -
-        * An Azure VM allows for just about any workload running on almost any operating system. 
-    * Features - 
+        * An Azure VM allows for just about any workload running on almost any operating system.
+    * Features -
         * Using VM's allows for more customization and isolation in case you are outside of what web apps supports. Azure VM's work with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
     * Security Options -
         * Antimalware
@@ -75,7 +75,7 @@ Topics include:
 
 ### 1. Azure SQL (PAAS) -
 
-    * Definition - 
+    * Definition -
         * SQL database service is a managed database service using the latest version of the SQL engine.
     * Features -
         * SQL as a service allows for scaling, advanced analytic features and is completely managed.
