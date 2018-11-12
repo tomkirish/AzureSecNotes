@@ -123,7 +123,7 @@ Topics include:
         * Role memberships and permissions
         * Encryption
 
-### 5. CosmosDB -
+### 5. CosmosDB (PAAS) -
 
     * Definition -
         * Provide native support for No SQL and OSS API's including Mongo DB, Cassandra, SQL, and more.
