@@ -8,79 +8,84 @@ Specifically content for developers including websites, web services, web apps, 
 
 Topics include:
 
-Azure App Services Security
+## Azure App Services Security
 
-Azure App Services Web Apps or Web Apps (PAAS) -
+### 1. Azure App Services Web Apps or Web Apps (PAAS) -
 
-1. Definition -
-    * Most common choice for deploying web app/sites, REST API's, and mobile back ends. .NET, .NET Core, Jara, Ruby, Node.js, or Python can be used.
-2. Features -
-    * Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
-3. Built-In Azure Security -
-    * Azure web apps run within their own isolated sandbox environment
-    * VM instances and runtime software receive regular updates
-    * Secure secrets including connection strings between apps and Azure resources do not cross network boundaries
-    * All connections using App Service connectivity are encrypted
-    * Connections using remote connections tools ie PowerShell are encrypted
-4. Azure additional security
-    * HTTPS and Certificates - by default app is created with https access
-    * Static IP restrictions - it is possible to restrict access by IP address to app
-    * Service to service authentication - Service identity (app managed identity) or On-behalf-of (delegated access)
-    * Connectivity to remote resources - S2S VPN Tunnel
+    * Definition -
+        * Most common choice for deploying web app/sites, REST API's, and mobile back ends. .NET, .NET Core, Jara, Ruby, Node.js, or Python can be used.
+    * Features -
+        * Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
+    * Built-In Azure Security -
+        * Azure web apps run within their own isolated sandbox environment
+        * VM instances and runtime software receive regular updates
+        * Secure secrets including connection strings between apps and Azure resources do not cross network boundaries
+        * All connections using App Service connectivity are encrypted
+        * Connections using remote connections tools ie PowerShell are encrypted
+    * Azure additional security
+        * HTTPS and Certificates - by default app is created with https access
+        * Static IP restrictions - it is possible to restrict access by IP address to app
+        * Service to service authentication - Service identity (app managed identity) or On-behalf-of (delegated access)
+        * Connectivity to remote resources - S2S VPN Tunnel
 
-Azure App Service Environment (ASE) -
+### 2. Azure App Service Environment (ASE) -
 
-1. Definition -
-    * Essentially Azure web apps that can be implemented in client's Azure environment.
-2. Features -
-    * The same apps can be deployed such as Windows and Linux web apps, Docker containers, Mobile apps, and Functions. Usually meant for very high scaling, isolation and secure network access, and/or high memory utilization.
-3. Azure Security Options -
-    * Dedicated environment
-    * Azure Firewall with supported VNets
-    * Service Endpoints - SQL, storage, keyvault
-    * SSL
+    * Definition -
+        * Essentially Azure web apps that can be implemented in client's Azure environment.
+    * Features -
+        * The same apps can be deployed such as Windows and Linux web apps, Docker containers, Mobile apps, and Functions. Usually meant for very high scaling, isolation and secure network access, and/or high memory utilization.
+    * Azure Security Options -
+        * Dedicated environment
+        * Azure Firewall with supported VNets
+        * Service Endpoints - SQL, storage, keyvault
+        * SSL/HTTPS
 
-Azure VM's (IAAS) -
+### 3. Azure VM's (IAAS) -
 
-1. Definition -
-    * An Azure VM allows for just about any workload running on almost any operating system. Azure VM's works with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
-2. Security Options -
-    * Antimalware
-    * Hardware security module (HSM) - Key Vault
-    * Encrypt data using data encryption at rest (Gen 2 Storage or Bitlocker) and in transit (SSL)
-    * Network Security Groups
-    * Firewalls
-    * Compliance - FISMA, HIPAA, PCI DSS Level 1
+    * Definition -
+        * An Azure VM allows for just about any workload running on almost any operating system. Azure VM's works with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
+    * Security Options -
+        * Antimalware
+        * Hardware security module (HSM) - Key Vault
+        * Encrypt data using data encryption at rest (Gen 2 Storage or Bitlocker) and in transit (SSL)
+        * Network Security Groups
+        * Firewalls
+        * Compliance - FISMA, HIPAA, PCI DSS Level 1
 
-Service Fabric (MicroServices) -
+### 4. Service Fabric (MicroServices) -
 
-1. Definition -
-    * A distributed systems (Containers) platform to allow for easy packaging and deploying micrososervices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
-2. Security -
-    * Cluster security
-    * Node to node security
-    * Client to node security
+    * Definition -
+        * A distributed systems (Containers) platform to allow for easy packaging and deploying micrososervices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
+    * Security -
+        * Cluster security
+        * Node to node security
+        * Client to node security
 
-General Azure Security Options
+## General Azure Security Options -
 
-* Role Based Access Control - Create roles to allow granular access to Azure resources
-* Key Vault - Key management for secrets and identities.
-* Managed Identities - Automatically managed identity in Azure AD.
-* Virtual Network Service Endpoints - Allows direct access to resources versus traffic going across Azure public network (internet).
+    * Azure Active Directory - Primary athentication/authorization mechanism for Azure resources.
+    * Role Based Access Control - Create roles to allow granular access to Azure resources
+    * Key Vault - Key management for secrets and identities.
+    * Managed Identities - Automatically managed identity in Azure AD.
+    * Virtual Network Service Endpoints - Allows direct access to resources versus traffic going across Azure public network (internet).
 
-Database
+## Azure Database Security
 
-* SQL
+### 1. SQL Database (PAAS) -
 
-* Servers
-* Elastic Pools
-* Managed Instances
+    * Definition - SQL database service is a managed database service using the latest version of the SQL engine. 
 
-* SQL Data Warehouse
+### 2. SQL on Azure VM's (IAAS) -
 
-* CosmosDB
+### 3. Elastic Pools
 
-* Azure for MySQL
+### 4. Managed Instances
+
+### 5. SQL Data Warehouse
+
+### 6. CosmosDB
+
+### 7. Azure for MySQL
 
 ## Glossary
 
