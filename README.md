@@ -43,7 +43,9 @@ Topics include:
 ### 3. Azure VM's (IAAS) -
 
     * Definition -
-        * An Azure VM allows for just about any workload running on almost any operating system. Azure VM's works with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
+        * An Azure VM allows for just about any workload running on almost any operating system. 
+    * Features - 
+        * Using VM's allows for more customization and isolation in case you are outside of what web apps supports. Azure VM's work with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
     * Security Options -
         * Antimalware
         * Hardware security module (HSM) - Key Vault
@@ -64,28 +66,66 @@ Topics include:
 ## General Azure Security Options -
 
     * Azure Active Directory - Primary athentication/authorization mechanism for Azure resources.
-    * Role Based Access Control - Create roles to allow granular access to Azure resources
+    * Role Based Access Control - Create roles to allow granular access to Azure resources.
     * Key Vault - Key management for secrets and identities.
     * Managed Identities - Automatically managed identity in Azure AD.
     * Virtual Network Service Endpoints - Allows direct access to resources versus traffic going across Azure public network (internet).
 
 ## Azure Database Security
 
-### 1. SQL Database (PAAS) -
+### 1. Azure SQL (PAAS) -
 
-    * Definition - SQL database service is a managed database service using the latest version of the SQL engine. 
+    * Definition - 
+        * SQL database service is a managed database service using the latest version of the SQL engine.
+    * Features -
+        * SQL as a service allows for scaling, advanced analytic features and is completely managed.
+    * Security -
+        * Data encryption in motion using Transport Layer Security
+        * Data encryption at rest
+        * Data encryption in use
+        * Firewall Rules - restrict access to servers, offices, remote admins, etc...
+        * Azure Active Directory authentication
+        * Role-based memberships and permissions to manage data
+        * Row level security
+        * Dynamic Data Masking
 
 ### 2. SQL on Azure VM's (IAAS) -
 
-### 3. Elastic Pools
+    * Definition -
+        * Utilizing Azure VM's to perform SQL workload
+    * Features -
+        * Use when customization, security, additional features are needed and fall outside of the SQL as a service support model
+    * Security -
+        * Azure Active Directory
+        * SQL Logins
+        * Create firewall and NSG access
+        * Must maintain all security
 
-### 4. Managed Instances
+### 3. Managed Instances -
 
-### 5. SQL Data Warehouse
+    * Definition -
+        * New deployment model of Azure SQL providing compatability with on-premise SQL Enterprise.
+    * Features -
+        * Designed to allow for easier lift and shift of on premise SQL databases while maintaining PAAS functionality.
+    * Security -
+        * Same security features as Azure SQL
 
-### 6. CosmosDB
+### 4. SQL Data Warehouse
 
-### 7. Azure for MySQL
+    * Definition -
+        * Enterprise level cloud based SQL Data Warehouse that leverages Massively Parallel Processing for complex queries.
+    * Features -
+        * Seperates compute from storage which enables compute to scale independently of the data in the system
+    * Security
+        * Firewall rules
+        * Azure Active Directory
+        * Connections are encrypted
+        * Role memberships and permissions
+        * Encryption
+
+### 5. CosmosDB
+
+### 6. Azure for MySQL
 
 ## Glossary
 
