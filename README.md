@@ -101,7 +101,7 @@ Topics include:
         * Create firewall and NSG access
         * Must maintain all security
 
-### 3. Managed Instances -
+### 3. Managed Instances (PAAS) -
 
     * Definition -
         * New deployment model of Azure SQL providing compatability with on-premise SQL Enterprise.
@@ -110,7 +110,7 @@ Topics include:
     * Security -
         * Same security features as Azure SQL
 
-### 4. SQL Data Warehouse
+### 4. SQL Data Warehouse (PAAS) -
 
     * Definition -
         * Enterprise level cloud based SQL Data Warehouse that leverages Massively Parallel Processing for complex queries.
@@ -123,9 +123,27 @@ Topics include:
         * Role memberships and permissions
         * Encryption
 
-### 5. CosmosDB
+### 5. CosmosDB -
 
-### 6. Azure for MySQL
+    * Definition -
+        * Provide native support for No SQL and OSS API's including Mongo DB, Cassandra, SQL, and more.
+    * Features -
+        * Guarenteed low latency with push button elastic scalability and global distribution.
+    * Security -
+        * Encryption at rest
+        * Master keys and Resource tokens for data access
+        * Firewall rules
+        * Endpoint support
+        * KeyVault support
+
+### 6. Azure for MySQL (PAAS) -
+
+    * Definition -
+        * Relational database service based on MySQL server.
+    * Security -
+        * Service is not exposed to the internet
+        * SSL support for application connections
+        * Encryption at rest
 
 ## Glossary
 
