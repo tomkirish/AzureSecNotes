@@ -1,6 +1,6 @@
 # Azure Security Notes
 
-Notes for Azure Security Presentation
+Notes for Azure Security Presentation.
 
 ## Azure Security
 
