@@ -15,7 +15,7 @@ Topics include:
     * Definition -
         * Most common choice for deploying web app/sites, REST API's, and mobile back ends. .NET, .NET Core, Jara, Ruby, Node.js, or Python can be used.
     * Features -
-        * Load balancing and traffice manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
+        * Load balancing and traffic manager provide high availability. Scaling is also a feature. DevOps capabilities are incorporated such as continuous deployment utilizing Azure DevOps, Git, Docker Hub, and more....
     * Built-In Azure Security -
         * Azure web apps run within their own isolated sandbox environment
         * VM instances and runtime software receive regular updates
@@ -37,7 +37,7 @@ Topics include:
     * Azure Security Options -
         * Dedicated environment
         * Azure Firewall with supported VNets
-        * Service Endpoints - SQL, storage, keyvault
+        * Service Endpoints - SQL, storage, key vault
         * SSL/HTTPS
 
 ### 3. Azure VM's (IAAS) -
@@ -45,9 +45,9 @@ Topics include:
     * Definition -
         * An Azure VM allows for just about any workload running on almost any operating system.
     * Features -
-        * Using VM's allows for more customization and isolation in case you are outside of what web apps supports. Azure VM's work with the following services Windows, Linux, SQL, Oracle, IBM, SAP and Biztalk Services.
+        * Using VMs allows for more customization and isolation in case you are outside of what web apps supports. Azure VMs work with the following services Windows, Linux, SQL, Oracle, IBM, SAP and BizTalk Services.
     * Security Options -
-        * Antimalware
+        * AntiMalware
         * Hardware security module (HSM) - Key Vault
         * Encrypt data using data encryption at rest (Gen 2 Storage or Bitlocker) and in transit (SSL)
         * Network Security Groups
@@ -57,7 +57,7 @@ Topics include:
 ### 4. Service Fabric (MicroServices) -
 
     * Definition -
-        * A distributed systems (Containers) platform to allow for easy packaging and deploying micrososervices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
+        * A distributed systems (Containers) platform to allow for easy packaging and deploying microservices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
     * Security -
         * Cluster security
         * Node to node security
@@ -65,7 +65,7 @@ Topics include:
 
 ## General Azure Security Options -
 
-    * Azure Active Directory - Primary athentication/authorization mechanism for Azure resources.
+    * Azure Active Directory - Primary authentication/authorization mechanism for Azure resources.
     * Role Based Access Control - Create roles to allow granular access to Azure resources.
     * Key Vault - Key management for secrets and identities.
     * Managed Identities - Automatically managed identity in Azure AD.
@@ -89,7 +89,7 @@ Topics include:
         * Row level security
         * Dynamic Data Masking
 
-### 2. SQL on Azure VM's (IAAS) -
+### 2. SQL on Azure VMs (IAAS) -
 
     * Definition -
         * Utilizing Azure VM's to perform SQL workload
@@ -104,7 +104,7 @@ Topics include:
 ### 3. Managed Instances (PAAS) -
 
     * Definition -
-        * New deployment model of Azure SQL providing compatability with on-premise SQL Enterprise.
+        * New deployment model of Azure SQL providing compatibility with on-premise SQL Enterprise.
     * Features -
         * Designed to allow for easier lift and shift of on premise SQL databases while maintaining PAAS functionality.
     * Security -
@@ -115,7 +115,7 @@ Topics include:
     * Definition -
         * Enterprise level cloud based SQL Data Warehouse that leverages Massively Parallel Processing for complex queries.
     * Features -
-        * Seperates compute from storage which enables compute to scale independently of the data in the system
+        * Separates compute from storage which enables compute to scale independently of the data in the system
     * Security
         * Firewall rules
         * Azure Active Directory
@@ -128,7 +128,7 @@ Topics include:
     * Definition -
         * Provide native support for No SQL and OSS API's including Mongo DB, Cassandra, SQL, and more.
     * Features -
-        * Guarenteed low latency with push button elastic scalability and global distribution.
+        * Guaranteed low latency with push button elastic scalability and global distribution.
     * Security -
         * Encryption at rest
         * Master keys and Resource tokens for data access
