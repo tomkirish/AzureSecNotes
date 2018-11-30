@@ -212,13 +212,13 @@ Topics include:
 
 ### Encryption
 
-https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption
-https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest
-https://docs.microsoft.com/en-us/azure/security/azure-security-data-encryption-best-practices
-https://docs.microsoft.com/en-us/azure/security/security-azure-encryption-overview
-https://azure.microsoft.com/en-us/updates/azure-backup-sse-encryption-at-rest/
-https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption-customer-managed-keys
-https://azure.microsoft.com/en-us/blog/announcing-default-encryption-for-azure-blobs-files-table-and-queue-storage/
+* <https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption>
+* <https://docs.microsoft.com/en-us/azure/security/azure-security-encryption-atrest>
+* <https://docs.microsoft.com/en-us/azure/security/azure-security-data-encryption-best-practices>
+* <https://docs.microsoft.com/en-us/azure/security/security-azure-encryption-overview>
+* <https://azure.microsoft.com/en-us/updates/azure-backup-sse-encryption-at-rest/>
+* <https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption-customer-managed-keys>
+* <https://azure.microsoft.com/en-us/blog/announcing-default-encryption-for-azure-blobs-files-table-and-queue-storage/>
 
 ### Storage Security
 
@@ -235,26 +235,31 @@ https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan
 
 ### Azure Advisor
 
-Example - 
+Example -
 
+<https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG>
 
-https://docs.microsoft.com/en-us/azure/advisor/advisor-overview
+* <https://docs.microsoft.com/en-us/azure/advisor/advisor-overview>
 
 ### Identity Security
-https://docs.microsoft.com/en-us/azure/security/azure-security-identity-management-best-practices
+
+* <https://docs.microsoft.com/en-us/azure/security/azure-security-identity-management-best-practices>
 
 ### RBAC
-https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+
+* <https://docs.microsoft.com/en-us/azure/role-based-access-control/overview>
 
 ### Azure Admin Portal
 
-https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal
-Development Security
+* <https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal>
 
-### Azure Key Vault
+### Development Security
 
-https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis
-### Virtual Network Service EndPoints
+#### Azure Key Vault
+
+* <https://docs.microsoft.com/en-us/azure/key-vault/key-vault-whatis>
+
+#### Virtual Network Service EndPoints
 
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
 https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources
