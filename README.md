@@ -57,7 +57,7 @@ Topics include:
 ### 4. Service Fabric (MicroServices) -
 
     * Definition -
-        * A distributed systems (Containers) platform to allow for easy packaging and deploying microservices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
+        * A distributed systems (Containers) platform to allow for easy packaging and deploying MicroServices. Service Fabric orchestrates services across a cluster of machines. Containers are the current standard for deploying applications over virtual machines.
     * Security -
         * Cluster security
         * Node to node security
