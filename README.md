@@ -242,7 +242,7 @@ Topics include:
 
 Example -
 
-<"https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG">
+![]<"https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG">
 
 * <https://docs.microsoft.com/en-us/azure/advisor/advisor-overview>
 
