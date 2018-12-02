@@ -210,6 +210,11 @@ Topics include:
 * <https://mva.microsoft.com/en-US/training-courses/hybrid-cloud-workload-protection-with-azure-security-center-18173?l=Ld0LK42jE_006218965>
 * <https://channel9.msdn.com/Blogs/Azure-Security-Videos>
 
+### Secure DevOps Kit for Azure
+
+* <https://azsk.azurewebsites.net/>
+* <https://github.com/azsk/DevOpsKit-docs>
+
 ### Encryption
 
 * <https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption>
@@ -222,22 +227,22 @@ Topics include:
 
 ### Storage Security
 
-https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide
-https://docs.microsoft.com/en-us/azure/security/azure-security-disk-encryption-overview
+* <https://docs.microsoft.com/en-us/azure/storage/common/storage-security-guide>
+* <https://docs.microsoft.com/en-us/azure/security/azure-security-disk-encryption-overview>
 
 ### Network Security
 
-https://docs.microsoft.com/en-us/azure/security/azure-security-network-security-best-practices
-https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-overview
-https://docs.microsoft.com/en-us/azure/virtual-network/security-overview
-https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview
-https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm
+* <https://docs.microsoft.com/en-us/azure/security/azure-security-network-security-best-practices>
+* <https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-overview>
+* <https://docs.microsoft.com/en-us/azure/virtual-network/security-overview>
+* <https://docs.microsoft.com/en-us/azure/virtual-network/ddos-protection-overview>
+* <https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm>
 
 ### Azure Advisor
 
 Example -
 
-<https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG>
+<"https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG">
 
 * <https://docs.microsoft.com/en-us/azure/advisor/advisor-overview>
 
