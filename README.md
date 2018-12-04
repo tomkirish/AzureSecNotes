@@ -232,6 +232,7 @@ Topics include:
 
 ### Network Security
 
+* <https://robertsmit.wordpress.com/2018/11/27/how-to-protect-your-azure-resources-from-distributed-denial-of-service-ddos-attacks-cloud-sdn-vnet-security-alerts-analytics/>
 * <https://docs.microsoft.com/en-us/azure/security/azure-security-network-security-best-practices>
 * <https://docs.microsoft.com/en-us/azure/application-gateway/application-gateway-web-application-firewall-overview>
 * <https://docs.microsoft.com/en-us/azure/virtual-network/security-overview>
