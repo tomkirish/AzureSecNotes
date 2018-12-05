@@ -267,43 +267,39 @@ Example -
 
 #### Virtual Network Service EndPoints
 
-https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview
-https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources
+* <https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview>
+* <https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources>
 
 ### Database Security
 
 #### SQL
 
-https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption-azure-sql?view=azuresqldb-current
-https://docs.microsoft.com/en-us/azure/sql-database/sql-database-security-overview
-https://docs.microsoft.com/en-us/azure/sql-database/sql-database-always-encrypted-azure-key-vault
+* <https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption-azure-sql?view=azuresqldb-current>
+* <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-security-overview>
+* <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-always-encrypted-azure-key-vault>
 
 #### Cosmos DB
 
-https://docs.microsoft.com/en-us/azure/cosmos-db/database-encryption-at-rest
-https://docs.microsoft.com/en-us/azure/cosmos-db/database-security
+* <https://docs.microsoft.com/en-us/azure/cosmos-db/database-encryption-at-rest>
+* <https://docs.microsoft.com/en-us/azure/cosmos-db/database-security>
 
 ### Quick Deployment
 
-https://github.com/Azure/azure-quickstart-templates
+* <https://github.com/Azure/azure-quickstart-templates>
 
 ### Azure Security Blog
 
-https://azure.microsoft.com/en-us/blog/topics/security/
+* <https://azure.microsoft.com/en-us/blog/topics/security/>
 
 ### Azure Marketplace - Security Solutions
-https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/security-identity
+* <https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/security-identity>
 
 #### Other 3rd Party solutions
 
-https://cloudcheckr.com/
-https://www.cloudhealthtech.com/
+* <https://cloudcheckr.com/>
+* <https://www.cloudhealthtech.com/>
 
 ### Security Information & Event Management (SIEM)
 
-https://www.logrhythm.com/
-https://www.splunk.com/
-
-### Microsoft Security General
-
-https://www.microsoft.com/en-us/trustcenter/default.aspx
+* <https://www.logrhythm.com/>
+* <https://www.splunk.com/>
