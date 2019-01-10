@@ -243,7 +243,7 @@ Topics include:
 
 Example -
 
-![](https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG)
+![Advisor Image](https://github.com/tomkirish/AzureSecNotes/blob/master/AdvisorDemo.PNG)
 
 * <https://docs.microsoft.com/en-us/azure/advisor/advisor-overview>
 
@@ -292,6 +292,7 @@ Example -
 * <https://azure.microsoft.com/en-us/blog/topics/security/>
 
 ### Azure Marketplace - Security Solutions
+
 * <https://azuremarketplace.microsoft.com/en-us/marketplace/apps/category/security-identity>
 
 #### Other 3rd Party solutions
